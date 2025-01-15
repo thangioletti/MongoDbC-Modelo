@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDb - Workshop", "MongoDb - Workshop\MongoDb - Workshop.csproj", "{97E000D9-56EE-4050-8B55-3D8C47905DD3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDb", "MongoDb\MongoDb.csproj", "{97E000D9-56EE-4050-8B55-3D8C47905DD3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
